@@ -1,4 +1,4 @@
-package br.com.portal.cryptocurrency.ui.theme
+package br.com.portal.cryptocurrency.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

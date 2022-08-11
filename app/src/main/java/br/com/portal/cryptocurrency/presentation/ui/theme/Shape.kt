@@ -1,4 +1,4 @@
-package br.com.portal.cryptocurrency.ui.theme
+package br.com.portal.cryptocurrency.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
